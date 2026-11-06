@@ -1,0 +1,15 @@
+{
+  "name": "laboratorio-12-programacion-funcional",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Soluciones del Laboratorio 12 de Teoría de la Computación en JavaScript.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "demo": "node src/main.js --demo",
+    "test": "node --test"
+  }
+}
