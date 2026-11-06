@@ -132,14 +132,8 @@ Las 11 pruebas comprueban los ejemplos del documento, casos base de recursión, 
 
 ## Entrega y video
 
-El enunciado pide un repositorio de GitHub y un video no listado de YouTube de no más de 10 minutos. La carpeta está preparada para subirla al repositorio que crees en tu cuenta. El repositorio y el video quedan pendientes de completar con tu cuenta.
+El enunciado pide un repositorio de GitHub y un video no listado de YouTube de no más de 10 minutos.
 
-Video de demostración: **pendiente de grabar y agregar el enlace**.
-
-Después de subir el video, reemplaza la línea anterior por un enlace con este formato:
-
-```markdown
-[Ver video de demostración](URL_DEL_VIDEO_NO_LISTADO)
-```
+[Ver video de demostración](https://youtu.be/pKkW9nrStJg)
 
 Puedes seguir [el guion sugerido](respuestas/guion_video.md). El documento menciona el ejercicio 1 para el video; el guion empieza con ese apartado e incluye una ejecución breve de los otros programas.
